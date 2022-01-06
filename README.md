@@ -1,2 +1,2 @@
 # Projeto-game
- Projeto de game desensolvido em HTML, CSS e JavaScript
+ Projeto de game desenvolvido em **HTML, **CSS e **JavaScript
